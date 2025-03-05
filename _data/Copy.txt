@@ -1,0 +1,55 @@
+Access to clean fuels and technologies for cooking (% of population)	94.60	95.00	95.30	95.60	95.90	96.20	96.40	..
+Access to electricity (% of population)	99.50	99.60	99.70	99.70	99.90	100.00	100.00	..
+Educational attainment, at least Bachelor's or equivalent, population 25+, total (%) (cumulative)	20.63	..	21.31	..	21.61	..	..	..
+Current health expenditure (% of GDP)	7.32	7.05	7.29	7.22	7.83	7.57	..	..
+GDP per capita (current US$)	12,091.03	12,317.09	12,590.25	12,884.69	12,394.05	12,838.12	13,625.90	16,942.03
+Gross domestic savings (% of GDP)	19.23	18.52	18.90	18.95	19.84	20.15	20.28	20.62
+Manufacturing, value added (% of GDP)	11.61	11.73	11.92	12.05	12.79	13.73	14.08	13.62
+Military expenditure (% of GDP)	..	..	..	..	..	..	..	..
+Research and development expenditure (% of GDP)	0.44	0.43	0.37	..	0.33	0.28	..	..
+External balance on goods and services (% of GDP)	0.34	0.45	0.53	2.89	3.67	1.57	2.58	5.36
+GDP (current US$)	58,847,019,609.65	60,516,044,656.52	62,420,164,991.54	64,417,670,521.35	62,395,610,760.05	64,960,725,734.20	69,243,626,028.59	86,497,941,439.02
+GDP per capita growth (annual %)	3.16	3.18	1.69	1.56	-4.93	7.39	4.10	4.62
+Government expenditure per student, secondary (% of GDP per capita)	24.04	24.68	21.14	..	..	..	..	..
+Government expenditure on education, total (% of GDP)	6.89	7.07	6.77	6.74	6.63	6.25	..	..
+Industry (including construction), value added (% of GDP)	19.65	19.31	19.56	19.23	20.37	20.61	20.65	20.46
+Tax revenue (% of GDP)	13.51	13.24	13.18	13.37	12.28	14.00	14.35	..
+Services, value added (% of GDP)	67.46	68.34	68.67	69.20	68.23	67.08	67.28	67.99
+Inflation, GDP deflator (annual %)	1.96	2.86	2.19	2.57	0.77	2.37	6.28	-0.09
+GDP per capita, PPP (constant 2021 international $)	21,934.28	22,631.51	23,014.42	23,374.03	22,220.65	23,862.36	24,841.55	25,989.91
+GDP per capita (constant LCU)	6,774,759.35	6,990,109.96	7,108,378.02	7,219,450.43	6,863,210.82	7,370,280.78	7,672,716.93	8,027,407.75
+GDP growth (annual %)	4.20	4.16	2.62	2.42	-4.27	7.94	4.55	5.11
+Domestic general government health expenditure (% of GDP)	5.37	5.18	5.27	5.24	5.62	5.30	..	..
+Expense (% of GDP)	27.15	25.40	28.92	29.64	32.25	29.37	28.59	..
+Account ownership at a financial institution or with a mobile-money-service provider, female (% of population ages 15+)	..	60.88	..	..	..	61.08	..	..
+Adults (ages 15-49) newly infected with HIV	1,000.00	1,000.00	1,000.00	1,000.00	1,000.00	1,000.00	1,000.00	..
+Carbon dioxide (CO2) emissions excluding LULUCF per capita (t CO2e/capita)	1.69	1.71	1.71	1.64	1.43	1.58	1.59	1.68
+Current health expenditure per capita (current US$)	870.74	853.75	902.22	914.88	953.08	948.92	..	..
+Current health expenditure per capita, PPP (current international $)	1,382.82	1,420.90	1,540.56	1,632.60	1,697.63	1,713.84	..	..
+Death rate, crude (per 1,000 people)	4.99	5.18	5.28	5.47	5.63	7.19	7.11	..
+Domestic private health expenditure per capita (current US$)	232.03	225.71	249.01	251.26	267.41	284.09	..	..
+Domestic general government health expenditure per capita (current US$)	638.46	627.59	653.15	663.62	684.37	664.39	..	..
+Domestic general government health expenditure per capita, PPP (current international $)	1,013.94	1,044.49	1,115.27	1,184.22	1,219.01	1,199.95	..	..
+Educational attainment, at least Bachelor's or equivalent, population 25+, male (%) (cumulative)	19.82	..	20.12	..	20.54	..	..	..
+Educational attainment, at least Bachelor's or equivalent, population 25+, female (%) (cumulative)	21.36	..	22.36	..	22.53	..	..	..
+Electric power consumption (kWh per capita)	..	..	..	..	..	..	..	..
+Electric power transmission and distribution losses (% of output)	..	..	..	..	..	..	..	..
+Energy imports, net (% of energy use)	..	..	..	..	..	..	..	..
+Energy use (kg of oil equivalent per capita)	..	..	..	..	..	..	..	..
+Firms that spend on R&D (% of firms)	..	..	..	..	..	..	..	25.00
+GDP, PPP (current international $)	93,454,856,085.20	100,716,906,502.78	106,583,345,257.90	116,687,612,853.61	111,257,806,527.03	120,743,279,901.81	131,804,567,013.95	143,524,422,860.11
+GDP per unit of energy use (PPP $ per kg of oil equivalent)	..	..	..	..	..	..	..	..
+Gini index	48.70	48.30	48.00	48.20	49.20	48.70	47.20	46.70
+Individuals using the Internet (% of population)	65.88	71.58	73.48	81.20	80.53	82.75	82.60	85.13
+International migrant stock (% of population)	..	..	..	..	..	..	..	..
+Land area (sq. km)	51,060.00	51,060.00	51,060.00	51,060.00	51,060.00	51,060.00	51,060.00	..
+Life expectancy at birth, total (years)	79.46	79.38	79.48	79.43	79.28	77.02	77.32	..
+Lifetime risk of maternal death (%)	0.03	0.03	0.03	0.03	0.04	..	..	..
+Literacy rate, adult total (% of people ages 15 and above)	..	..	..	..	..	98.04	..	..
+Manufacturing, value added (annual % growth)	4.25	3.96	4.20	3.01	2.14	18.04	3.40	8.40
+Manufacturing, value added (constant LCU)	3,876,519,200,000.00	4,029,884,200,000.00	4,199,324,900,000.00	4,325,673,300,000.00	4,418,361,300,000.00	5,215,600,100,000.00	5,392,822,700,000.00	5,845,806,200,000.00
+Manufacturing, value added (current US$)	6,829,293,615.20	7,100,953,654.13	7,443,186,859.78	7,760,039,214.80	7,980,926,786.81	8,921,313,798.12	9,749,544,895.38	11,779,970,856.80
+Military expenditure (% of general government expenditure)	..	..	..	..	..	..	..	..
+Military expenditure (current LCU)	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+Military expenditure (current USD)	0.00	0.00	0.00	0.00	0.00	0.00	0.00	0.00
+Mobile cellular subscriptions
