@@ -32,6 +32,8 @@ The analysis was motivated by the Udacity course "Nanodegree Data Scientist".
 
 The results are documented in the following link to the Medium blog post.
 
+https://medium.com/@maximilian.tschochner/identify-key-differences-in-countries-economic-indicators-over-time-with-classification-trees-fbdee80af3a2
+
 ## Licensing, Authors and Acknowledgments <a name="licensing"></a>
 
 Used data is open data provided by the World Bank. I am the only author of the analysis, the files and the related blog post. Acknowledgments to the guidance of the people who created the Udacity Nanodegree Programm.
